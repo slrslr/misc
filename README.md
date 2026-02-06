@@ -34,6 +34,8 @@ You should open following script files to see what it is doing and to adjust its
 
 ## Other
 
+**session-moderator-add-or-remove.sh** - helps adding or removing Session community moderator/s while maintaining list of selected moderators unbanned
+
 **session-moderator-list-unban-keep-rights.sh** - maintain list of selected Session IDs as a community moderators or admins and keep these IDs not banned. Running this script reverts malevolent community admins removals/bans of other mods/admins.
 
 **session-sogs-delete-messages-containing.sh** - search SOGS database for a messages containing yours defined text (possible to partial match: %ery b%d phras%). After the text is output, you can optionally delete matching messages
